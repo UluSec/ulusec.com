@@ -102,6 +102,10 @@ files = [
         "#",
     ],
     [
+        "github.md",
+        "https://github.com/UluSec",
+    ],
+    [
         "sendmail.sh",
         "mailto:iletisim@ulusec.com",
     ],
